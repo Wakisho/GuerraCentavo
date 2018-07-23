@@ -42,7 +42,7 @@ Aquí pueden encontrar algunos materiales que ilustran la problemática social q
 
 [La vieja tabla de ruta de los buses de servicio público ayuda a los estudiantes de diseño tipográfico](http://www.populardelujo.com/tablasderuta)
 
-[Articulo relativamente reciente sobre la guerra del centavo] (https://www.elheraldo.co/columnas-de-opinion/la-inclemente-guerra-del-centavo-430232)
+[Artículo relativamente reciente sobre la guerra del centavo](https://www.elheraldo.co/columnas-de-opinion/la-inclemente-guerra-del-centavo-430232)
 
 [Noticia sobre un accidente de los buses en cuestión](https://noticias.caracoltv.com/medellin/la-ruta-del-terror-17-heridos-en-choque-de-dos-buses-en-el-barrio-santa-lucia)
 
