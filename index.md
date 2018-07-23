@@ -4,9 +4,13 @@ You can use the [editor on GitHub](https://github.com/Wakisho/GuerraCentavo/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Introducción
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+El proyecto “La Guerra del Centavo” busca crear un juego que ponga al jugador en el lugar de un conductor de bus de servicio público 
+    del antiguo sistema de transporte en Bogotá. En este sistema los conductores reciben dinero de acuerdo al número de
+    pasajeros que recogen, lo que causa problemas para todos los involucrados y pone a los conductores a tomar decisiones sobre cómo manejar
+    para poder recoger un número importante de pasajeros mientras culpen las reglas de tránsito. En ocasiones, los usuarios del servicio
+    culpan a los conductores por los problemas del sistema, pero en realidad ellos tienen unas opciones limitadas con las cuales trabajar.
 
 ```markdown
 Syntax highlighted code block
