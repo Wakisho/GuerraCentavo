@@ -78,8 +78,11 @@ El juego "La Guerra del Centavo" ha sido creado para el curso de verano de "Vide
 El trabajo ha tomado un poco menos de dos semanas y ha sido hecho por cuatro miembros de uno de los grupos de clase:
   
   Sandra Barrera: Diseño gráfico, idea.
+  
   Johann Felipe González: Idea, programación
+  
   Juan Pablo Albornoz: Textos, idea, edición de video.
+  
   Humberto López: Idea, página web, sonido 
   
 ### Support or Contact
