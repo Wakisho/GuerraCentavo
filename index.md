@@ -1,11 +1,5 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Wakisho/GuerraCentavo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Introducción
+## Introducción
 
 El proyecto “La Guerra del Centavo” busca crear un juego que ponga al jugador en el lugar de un conductor de bus de servicio público 
     del antiguo sistema de transporte en Bogotá. En este sistema los conductores reciben dinero de acuerdo al número de
@@ -13,7 +7,7 @@ El proyecto “La Guerra del Centavo” busca crear un juego que ponga al jugado
     para poder recoger un número importante de pasajeros mientras culpen las reglas de tránsito. En ocasiones, los usuarios del servicio
     culpan a los conductores por los problemas del sistema, pero en realidad ellos tienen unas opciones limitadas con las cuales trabajar.
 
-### Video de presentación
+## Video de presentación
 
 
 
@@ -21,7 +15,7 @@ El proyecto “La Guerra del Centavo” busca crear un juego que ponga al jugado
 Aquí irá el video
 ```
 
-### Referencias
+## Referencias
 
 Aquí pueden encontrar algunos materiales que ilustran la problemática social que trata el videojuego. El documental "La Guerra del Centavo"
   de Ciro Durán se encarga de explicar los problemas del sistema de transporte público en Colombia. Aunque el documental ya tiene más de tres
@@ -68,6 +62,19 @@ Aquí pueden encontrar algunos materiales que ilustran la problemática social q
 
 [Guerra del centavo en Envigado, Antioquia](http://www.elcolombiano.com/historico/guerra_del_centavo_en_envigado_quedo_registrada_en_video-GAEC_277652)
 
+## Sobre nosotros
+
+El juego "La Guerra del Centavo" ha sido creado para el curso de verano de "Videojuegos para impacto social" durante el año 2018.
+El trabajo ha tomado un poco menos de dos semanas y ha sido hecho por cuatro miembros de uno de los grupos de clase:
+  
+  Sandra Barrera: Diseño gráfico, idea.
+  Johann Felipe González: Idea, programación
+  Juan Pablo Albornoz: Textos, idea, edición de video.
+  Humberto López: Idea, página web, sonido 
+  
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+You can use the [editor on GitHub](https://github.com/Wakisho/GuerraCentavo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
