@@ -1,7 +1,7 @@
 # Site settings
-title: Título ejemplo
+title: La Guerra del Centavo
 e-mail: wakisho@gmail.com
-description: Esta es la descripción.
+description: Página del videojuego
 
 # Build Settings
 markdown: kramdown
