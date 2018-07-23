@@ -1,9 +1,0 @@
-# Site settings
-title: La Guerra del Centavo
-e-mail: wakisho@gmail.com
-description: Página del videojuego
-
-# Build Settings
-markdown: kramdown
-permalink: pretty
-theme: jekyll-theme-cayman
