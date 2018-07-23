@@ -1,1 +1,9 @@
+# Site settings
+title: Título ejemplo
+e-mail: wakisho@gmail.com
+description: Esta es la descripción.
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
 theme: jekyll-theme-cayman
