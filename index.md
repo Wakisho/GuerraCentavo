@@ -15,6 +15,16 @@ El proyecto “La Guerra del Centavo” busca crear un juego que ponga al jugado
 Aquí irá el video
 ```
 
+## El juego
+
+
+
+```markdown
+¿Aquí irá el juego?
+```
+
+
+
 ## Referencias
 
 Aquí pueden encontrar algunos materiales que ilustran la problemática social que trata el videojuego. El documental "La Guerra del Centavo"
