@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Wakisho/GuerraCentavo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -12,29 +13,17 @@ El proyecto “La Guerra del Centavo” busca crear un juego que ponga al jugado
     para poder recoger un número importante de pasajeros mientras culpen las reglas de tránsito. En ocasiones, los usuarios del servicio
     culpan a los conductores por los problemas del sistema, pero en realidad ellos tienen unas opciones limitadas con las cuales trabajar.
 
+### Video de presentación
+
+
+
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Aquí irá el video
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Referencias
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Wakisho/GuerraCentavo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[La vieja tabla de ruta de los buses de servicio público ayuda a los estudiantes de diseño tipográfico](http://www.populardelujo.com/tablasderuta)
 
 ### Support or Contact
 
